@@ -8,3 +8,4 @@ On github I am trying out my programming skills. You can see that I have experie
 - Java, the basics
 - Java, advanced
 - Database development
+- Frontend project: summer_body
